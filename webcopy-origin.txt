@@ -1,0 +1,528 @@
+Uri: http://manifesto.clapat.com/
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\index.htm
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/about.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\about.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/contact.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\contact.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/css/all.min.css
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\css\all.min.css
+Content Type: text/css
+
+Uri: http://manifesto.clapat.com/css/assets.css
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\css\assets.css
+Content Type: text/css
+
+Uri: http://manifesto.clapat.com/css/content.css
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\css\content.css
+Content Type: text/css
+
+Uri: http://manifesto.clapat.com/css/shortcodes.css
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\css\shortcodes.css
+Content Type: text/css
+
+Uri: http://manifesto.clapat.com/css/showcase.css
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\css\showcase.css
+Content Type: text/css
+
+Uri: http://manifesto.clapat.com/favicon.ico
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://manifesto.clapat.com/images/00hero.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\00hero.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/01hero.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\01hero.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/02hero.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\02hero.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/03hero.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\03hero.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/04hero.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\04hero.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/04hero.mp4
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\04hero.mp4
+Content Type: video/mp4
+
+Uri: http://manifesto.clapat.com/images/05hero.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\05hero.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/06hero.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\06hero.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/07hero.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\07hero.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/08hero.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\08hero.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/about.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\about.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/about.mp4
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\about.mp4
+Content Type: video/mp4
+
+Uri: http://manifesto.clapat.com/images/client-01.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\client-01.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/client-02.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\client-02.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/client-03.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\client-03.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/client-04.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\client-04.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/client-05.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\client-05.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/client-06.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\client-06.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/client-07.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\client-07.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/client-08.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\client-08.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/clients-bottom-white.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\clients-bottom-white.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/clients-bottom.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\clients-bottom.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/clients-middle-white.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\clients-middle-white.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/clients-middle.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\clients-middle.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/clients-top-white.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\clients-top-white.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/clients-top.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\clients-top.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/logo-white.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\logo-white.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/logo.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\logo.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/projects/camarades01.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\camarades01.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/camarades02.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\camarades02.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/camarades03.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\camarades03.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/camarades04.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\camarades04.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/camarades05.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\camarades05.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/camarades06.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\camarades06.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/camarades07.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\camarades07.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/cast01.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\cast01.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/cast02.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\cast02.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/cast03.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\cast03.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/cast04.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\cast04.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/heritage01.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\heritage01.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/heritage02.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\heritage02.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/heritage03.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\heritage03.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/heritage04.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\heritage04.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/leafs01.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\leafs01.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/leafs02.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\leafs02.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/leafs03.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\leafs03.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/manifesto01.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\manifesto01.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/manifesto02.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\manifesto02.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/manifesto03.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\manifesto03.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/serene.mp4
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\serene.mp4
+Content Type: video/mp4
+
+Uri: http://manifesto.clapat.com/images/projects/serene01.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\serene01.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/serene02.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\serene02.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/serene03.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\serene03.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/serene04.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\serene04.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/serene05.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\serene05.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/storm01.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\storm01.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/storm02.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\storm02.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/storm03.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\storm03.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/urbanedge01.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\urbanedge01.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/urbanedge02.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\urbanedge02.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/projects/urbanedge03.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\projects\urbanedge03.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/rotate.png
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\rotate.png
+Content Type: image/png
+
+Uri: http://manifesto.clapat.com/images/shortcodes/collage01.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\shortcodes\collage01.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/shortcodes/collage02.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\shortcodes\collage02.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/shortcodes/collage03.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\shortcodes\collage03.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/shortcodes/collage04.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\shortcodes\collage04.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/shortcodes/collage05.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\shortcodes\collage05.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/shortcodes/collage06.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\shortcodes\collage06.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/shortcodes/collage07.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\shortcodes\collage07.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/shortcodes/image01.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\shortcodes\image01.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/shortcodes/image02.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\shortcodes\image02.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/shortcodes/image03.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\shortcodes\image03.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/shortcodes/image04.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\shortcodes\image04.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/shortcodes/pinned01.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\shortcodes\pinned01.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/images/shortcodes/pinned02.jpg
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\images\shortcodes\pinned02.jpg
+Content Type: image/jpeg
+
+Uri: http://manifesto.clapat.com/index-showcase-carousel.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\index-showcase-carousel.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/index-showcase-gallery.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\index-showcase-gallery.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/index-showcase-grid.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\index-showcase-grid.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/index-showcase-list.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\index-showcase-list.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/index-showcase-slider.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\index-showcase-slider.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/index.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\index.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/js/clapat.js
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\js\clapat.js
+Content Type: application/javascript
+
+Uri: http://manifesto.clapat.com/js/common.js
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\js\common.js
+Content Type: application/javascript
+
+Uri: http://manifesto.clapat.com/js/contact.js
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\js\contact.js
+Content Type: application/javascript
+
+Uri: http://manifesto.clapat.com/js/jquery.min.js
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://manifesto.clapat.com/js/plugins.js
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\js\plugins.js
+Content Type: application/javascript
+
+Uri: http://manifesto.clapat.com/js/scripts.js
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://manifesto.clapat.com/multimedia.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\multimedia.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/project01.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\project01.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/project02.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\project02.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/project03.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\project03.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/project04.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\project04.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/project05.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\project05.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/project06.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\project06.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/project07.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\project07.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/project08.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\project08.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/shortcodes.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\shortcodes.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/style.css
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\style.css
+Content Type: text/css
+
+Uri: http://manifesto.clapat.com/typography.html
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\typography.html
+Content Type: text/html
+
+Uri: http://manifesto.clapat.com/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://manifesto.clapat.com/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://manifesto.clapat.com/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://manifesto.clapat.com/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://manifesto.clapat.com/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://manifesto.clapat.com/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://manifesto.clapat.com/webfonts/fa-v4compatibility.ttf
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: http://manifesto.clapat.com/webfonts/fa-v4compatibility.woff2
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: http://manifesto.clapat.com/webfonts/mona-sans-extraboldwide-webfont.woff
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\webfonts\mona-sans-extraboldwide-webfont.woff
+Content Type: font/woff
+
+Uri: http://manifesto.clapat.com/webfonts/mona-sans-extraboldwide-webfont.woff2
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\webfonts\mona-sans-extraboldwide-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://manifesto.clapat.com/webfonts/mona-sans-lightwide-webfont.woff
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\webfonts\mona-sans-lightwide-webfont.woff
+Content Type: font/woff
+
+Uri: http://manifesto.clapat.com/webfonts/mona-sans-lightwide-webfont.woff2
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\webfonts\mona-sans-lightwide-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/Flip.min.js
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\ajax\libs\gsap\3.11.4\Flip.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\ajax\libs\gsap\3.11.4\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\ajax\libs\gsap\3.11.4\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/5.0.0/imagesloaded.pkgd.min.js
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\ajax\libs\jquery.imagesloaded\5.0.0\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/smooth-scrollbar/8.4.0/smooth-scrollbar.js
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\ajax\libs\smooth-scrollbar\8.4.0\smooth-scrollbar.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\ajax\libs\three.js\r128\three.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\Dell\OneDrive\Desktop\manifesto.clapat.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
